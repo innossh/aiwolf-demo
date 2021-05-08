@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "aiwolf-demo"
-include("lib")
+include("demo")
